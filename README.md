@@ -57,11 +57,33 @@
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
-
+ 1. **You**: Ketemu lagi, gan. Sorry yo merepotkan.  
+ 2. **Participant**: Gapapa santai aja. Ini lanjutan tugas yg dulu itu.?
+ 3. **Y**: Iya. Jadi dulu feedback-mu dulu itu buat acuan bikin prototype. Nah sekarang butuh feedback-mu lagi untuk prototype ini.
+ 4. **P**: Oh ok. Harus ngapain ini?
+ 5. **Y**: Sebelum mulai, ini kan cuma prototype, jadi fungsionalitasnya ga mungkin sempurna. Nanti gapapa kalo kamu bikin asumsi atau komentar untuk fitur atau tampilan yang ada, malah aku apresiasi pol.
+ 6. **P**: Ok, gampang.
+ 7. **Y**: Sip. Yang pertama, coba bikin perencanaan SKEM. Sama kayak yang dulu.
+ 8. **P**: Ok. Homepage-nya sama ya? Ya gapapa sih sebenernya. Tapi mungkin agak mengganggu dan menyusahkan aja kalo harus point ke header
+ 9. **Y**: Hmm. Menurutmu perlu dipermak atau gak? Kira-kira skor prioritasnya gimana?
+ 10. **P**: Perlu yak, kasian juga kalo ada yang belum lancar browsing gitu. Kalo prioritas mungkin 6/10 sih, jelek parah soalnya.
+ 11. **Y**: Okok, well noted.
+ 12. **P**: Ok, lanjut ya. *membuka laman perencanaan* Wih mayan drastis
+ 13. **Y**: Kesan pertamamu gimana?
+ 14. **P**: Overall udah ok sih. Udah ga perlu susah-susah scroll dropdown yang panjang. Tapi kayaknya kurang ditambah informasi buat poin SKEM yak
+ 15. **Y**: Oh iya, kelupaan. Thank you ngingetin. Ada lagi mungkin?
+ 16. **P**: Ok sih itu aja. Lanjut aja
+ 17. **Y**: Ok. Sekarang coba bikin realisasi SKEM yak.
+ 18. **P**: *membuka laman realisasi* Oh desainnya sama, mayan juga sih. Oh kita bisa milih dari yang perencanaan atau bikin baru ya.
+ 19. **Y**: Yoi. Kira-kira waktu pertama lihat, langsung paham gak? Atau komentar lain mungkin?
+ 20. **P**: Kalo menurutku ok sih, mayan paham. Mungkin ditambah semacem *arrow* kali yak, biar orang tau kalo itu kayak dropdown. Sama kurang info poin SKEM juga, sama kayak yang tadi.
+ 21. **Y**: Ok sip. Ada komentar lagi?
+ 22. **P**: Oh iya, untuk masukin tanggal ini mungkin agak kurang jelas yak, soalnya untuk tahun tulisannya cuman "yy". Nanti orang-orang bingung. Kalo bisa masukinnya pake kayak kalender yang muncul gitu itu, biar ga salah.
+ 23. **Y**: Oh ya bener juga. Thank you koreksinya. Itu aja komentarmu?
+ 24. **P**: Yoi. Ada task lagi?
+ 25. **Y**: Udah itu aja. Sebenernya ada, bikin realisasi SKEM baru tapi berdasar perencanaan. Tapi kayaknya kamu udah nemu caranya. Jadi udah ok sih. Terima kasih banget yo, maaf ngrepotin banget.
+ 26. **P**: Sans. Sama-sama, gan
+ 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
  - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
