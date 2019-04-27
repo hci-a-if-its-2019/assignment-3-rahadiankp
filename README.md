@@ -26,14 +26,17 @@
 > their skill level in using the system, and your reasons choosing them.
 > The description should NOT contain any personally identifiable information.
 
-#### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+#### a. Description of Participant 1 (From Previous Assignment)
+ - Student of Physics Engineering Department of ITS  
+ - Has several achievements during his study in ITS
+ - Has not made any updates in SKEM ITS portal (no achievements has been submitted)  
+ - Minor experince with the SKEM Portal
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+ - Student of Information System Department of ITS  
+ - Proficient in operating computer
+ - Has not made any updates in SKEM ITS portal (no achievements has been submitted)  
+ - Has no experience in using the SKEM Portal but claims to knowing the Integra's UI pretty well  
 
 ### 2. Evaluation Script
 > Write the questions you ask and the instructions you use to direct the participants on what to do.
