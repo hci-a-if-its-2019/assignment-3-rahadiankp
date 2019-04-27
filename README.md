@@ -43,6 +43,9 @@
 > If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
 > so we have everything in one place.
 > Note that the evaluation script must include exactly what you plan to say to the participants.
+1. Participant must input plans for current semester's SKEM  
+2. Participant must create a new SKEM entry  
+3. Participant must create a new SKEM entry, this time based on the SKEM planning   
 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
