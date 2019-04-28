@@ -141,4 +141,6 @@
 
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.  
+
+Latest High-Fidelity Prototype: [InVision](https://projects.invisionapp.com/share/RXRR0WT5T69)  
