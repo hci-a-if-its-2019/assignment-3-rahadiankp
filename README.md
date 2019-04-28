@@ -97,32 +97,28 @@
 ![Missing "Poin" Perencanaan SKEM](img/obs1_1.png)
 ![Missing "Poin" Realisasi SKEM](img/obs1_2.png)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: Transcript #1 Line number 14 and 20.  
+ - **Feedback**: Negative feedback.  
+ - **Incidence**: Participant couldn't figure out how much point they get for the SKEM they've input.  
+ - **Reason**: There is no UI that signifies how much of point the participant could get.
+ - **Resolution**: Create the UI to solve the problem above.  
  
 #### OBSERVATION 2
 ![Bad Landing Page](img/obs2.png)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ - **Reference**: Transcript #1 Line number 8.  
+ - **Feedback**: Neutral, somewhat negative feedback.  
+ - **Reason**: The participant said that the landing page is not intuitive. It is quite troublesome for some people to interact with the page header
+ - **Resolution**: Make the landing page better. I'm planning to adopt the dashboard page of Integra to be used in SKEM Portal as well.  
  
 #### OBSERVATION 3
 ![Add Calendar Input in Realisasi SKEM](img/obs3.png)
 
-
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
+ - **Reference**: Transcript #1 Line number 8.  
+ - **Feedback**: Negative feedback.  
+ - **Incidence**: Trying to input invalid year.  
+ - **Reason**: Badly formatted input. The participant was confused for "yy" format or "yyyy" format. "yy" format is weird.  
+ - **Resolution**: As the participant suggested himself, adding javascript popup calendar might solve the problem.  
  
  ---
 
