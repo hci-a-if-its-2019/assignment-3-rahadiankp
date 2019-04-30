@@ -131,7 +131,8 @@
 > Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
 > Please make sure the any texts on the sketch are readable.
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+![Sketch #1](img/sketch1.jpg)  
+![Sketch #2](img/sketch2.jpg)  
 
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
