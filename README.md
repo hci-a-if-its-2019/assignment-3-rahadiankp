@@ -138,6 +138,8 @@
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
 > and how it is reflected in your design.
 
+Two things that are important. First, landing page is the first thing the users would see, so we have to make it as intuitive as possible. First impression is what really matters. Once the users get frustrated at the very beginning, the users will most likely abandon the app. Second, inputting date is a struggle. Weird date format leads to users inputting invalid date, etc. The solution can be resolved by adding popup JavaScript calendar, that would help the users greatly
+
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
 > You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.  
