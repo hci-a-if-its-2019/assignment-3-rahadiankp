@@ -111,7 +111,7 @@
 ![Missing "Poin" Perencanaan SKEM](img/obs1_1.png)
 ![Missing "Poin" Realisasi SKEM](img/obs1_2.png)
 
- - **Reference**: Transcript #1 Line number 14 and 20.  
+ - **Reference**: Transcript #1 Line number 14 and 20. Transcript #2 Line number 7-9.  
  - **Feedback**: Negative feedback.  
  - **Incidence**: Participant couldn't figure out how much point they get for the SKEM they've input.  
  - **Reason**: There is no UI that signifies how much of point the participant could get.
@@ -120,7 +120,7 @@
 #### OBSERVATION 2
 ![Bad Landing Page](img/obs2.png)
 
- - **Reference**: Transcript #1 Line number 8.  
+ - **Reference**: Transcript #1 Line number 8. Transcript #2 Line number 6.  
  - **Feedback**: Neutral, somewhat negative feedback.  
  - **Reason**: The participant said that the landing page is not intuitive. It is quite troublesome for some people to interact with the page header
  - **Resolution**: Make the landing page better. I'm planning to adopt the dashboard page of Integra to be used in SKEM Portal as well.  
