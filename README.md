@@ -1,31 +1,11 @@
 # Usability Evaluation and Prototyping (again)
-> Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
-> the participant from the previous Contextual Inquiry (CI) 
-> and an additional novice-participant with different demographics if possible.
-> Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
-
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
-
 [![Prototype Video](img/thumbnail.png)](https://streamable.com/a2v18)
 
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
-
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
-
 #### a. Description of Participant 1 (From Previous Assignment)
  - Student of Physics Engineering Department of ITS  
  - Has several achievements during his study in ITS
@@ -39,23 +19,11 @@
  - Has no experience in using the SKEM Portal but claims to knowing the Integra's UI pretty well  
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
 1. Participant must input plans for current semester's SKEM  
 2. Participant must create a new SKEM entry  
 3. Participant must create a new SKEM entry, this time based on the SKEM planning   
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
-
 #### a. Transcript with Participant 1
  1. **You**: Ketemu lagi, gan. Sorry yo merepotkan.  
  2. **Participant**: Gapapa santai aja. Ini lanjutan tugas yg dulu itu.?
@@ -105,8 +73,6 @@
  18. **Y**: Okok, terima kasih yo.
 
 ### 4. Feedback and Incidence Analysis
-> Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
-
 #### OBSERVATION 1
 ![Missing "Poin" Perencanaan SKEM](img/obs1_1.png)
 ![Missing "Poin" Realisasi SKEM](img/obs1_2.png)
@@ -146,25 +112,12 @@
  ---
 
 ## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
-> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
-
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
-
 ![Sketch #1](img/sketch1.jpg)  
 ![Sketch #2](img/sketch2.jpg)  
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
-
 Two things that are important. First, landing page is the first thing the users would see, so we have to make it as intuitive as possible. First impression is what really matters. Once the users get frustrated at the very beginning, the users will most likely abandon the app. Second, inputting date is a struggle. Weird date format leads to users inputting invalid date, etc. The solution can be resolved by adding popup JavaScript calendar, that would help the users greatly
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.  
-
 Latest High-Fidelity Prototype: [InVision](https://projects.invisionapp.com/share/RXRR0WT5T69)  
