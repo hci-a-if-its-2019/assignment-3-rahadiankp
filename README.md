@@ -85,10 +85,24 @@
  26. **P**: Sans. Sama-sama, gan
  
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 1. **You**: Karena ini cuman prototype, pastinya fungsionalitas ga lengkap. Kalo bisa omongin aja asumsi atau komentarmu tentang fitur-fiturnya yo.
+ 2  **Participant**: Ok, mulai aja
+ 3. **Y**: Coba bikin entri perencanaan SKEM.
+ 4. **P**: *di landing page SKEM* Gambar tok ya ini? Tak kira kayak yang SIAKAD gitu.
+ 5. **Y**: Aneh atau ganggu gak?
+ 6. **P**: Aneh se, tapi mungkin ga terlalu ganggu. Berarti menunya ya di header, kebiasaan Integra.
+ 7. **P**: *selesai task* Mantap, mayan bagus se. Desainnya Integra banget. Terus memang ga ada dapet poin berapa gitu?
+ 8. **Y**: Kalo menurutmu sendiri harus ada atau ga?
+ 9. **P**: Harusnya ada, kan buat info kita bisa dapet berapa poin.
+ 10. **Y**: Okok. Task yang ini udah. Sekarang coba bikin entri di realisasi SKEM.
+ 11. **P**: *masuk ke page realisasi* Ok, ngapain sekarang... *sedikit bingung, lihat ke Dari Perencanaan* Oh ini bisa diklik, ga ada tandanya.
+ 12. **Y**: Harus dikasih kayak arrow gitu ya biar keliatan kalo itu kayak dropdown?
+ 13. **P**: Minim iku se. Oalah kita bisa bikin entri dari perencanaan atau bikin baru ngono ta?
+ 14. **Y**: Yoi. Biar cepet ae.
+ 15. **P**: Mantap. *selesai task* Ok udah bos.
+ 16. **Y**: Ok sip, suwun. Ada komentar mungkin? Mungkin inputnya kurang jelas atau apa gitu?
+ 17. **P**: Ga ada se kalo menurutku. Udah itu aja.
+ 18. **Y**: Okok, terima kasih yo.
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
