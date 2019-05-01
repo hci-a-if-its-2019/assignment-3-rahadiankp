@@ -134,6 +134,15 @@
  - **Reason**: Badly formatted input. The participant was confused for "yy" format or "yyyy" format. "yy" format is weird.  
  - **Resolution**: As the participant suggested himself, adding javascript popup calendar might solve the problem.  
  
+ #### OBSERVATION 4
+![Missing Arrow for Dropdown](img/obs4.png)
+
+ - **Reference**: Transcript #1 Line number 20. Transcript #2 Line number 11.  
+ - **Feedback**: Negative feedback.  
+ - **Incidence**: Couldn't figure out the dropdowns.  
+ - **Reason**: No dropdown signifier/arrow.  
+ - **Resolution**: Add an arrow to signify the dropdown.  
+ 
  ---
 
 ## Part B: Prototyping (again)
